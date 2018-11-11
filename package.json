@@ -1,0 +1,15 @@
+{
+	"name": "web-osc.stahllabs.io",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"dependencies": {
+		"osc": "^2.2.4"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node app.js"
+	},
+	"author": "stahl",
+	"license": "MIT"
+}
